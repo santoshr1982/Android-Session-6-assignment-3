@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SubMenuXMLActivity</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">blue</string>
+    <string name="submenuxmlactivity">SubMenuXMLActivity</string>
+</resources>
